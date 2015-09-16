@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:38.215778
+#+DATE: 2015-08-31 05:55:38.404918
 #+TITLE: 續命經
 #+PROPERTY: CBETA_ID T85n2889
 #+PROPERTY: ID KR6u0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2889
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6u0025_T_001-1405a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2889¶
-
- 佛說續命經¶
+No. 2889¶
+佛說續命經¶
 ¶
 
 南無大慈大悲救苦觀世音。唯願聖手摩我¶
@@ -20,10 +19,10 @@ No.2889¶
 每供養諸佛。度一切如影隨形。願恒受持得¶
 不捨離。西方阿彌陀佛觀世音菩薩得大勢¶
 至菩薩有能。誦此一佛二菩薩名者。離生死¶
-苦永不入地獄。恒值善諸識。有疑有難者。¶
+苦永不入地獄。恒值善智識。有疑有難者。¶
 誦此經一千遍即得解脫。一願三寶恒存立¶
 　二願風雨順時行　三願國王壽萬歲　四¶
-願邊地無刀丘　五願三塗離苦難　六願¶
+願邊地無刀兵　五願三塗離苦難　六願¶
 百病盡消除　七願眾生行慈孝　八願屠人¶
 莫殺生　九願牢囚所得脫　十願法界普安¶
 寧　眼願莫見刀光刃　耳願不聞怨殃聲¶
