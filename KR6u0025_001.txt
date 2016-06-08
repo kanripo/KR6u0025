@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:38.215778
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:02
 #+TITLE: 續命經
 #+PROPERTY: CBETA_ID T85n2889
 #+PROPERTY: ID KR6u0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2889
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0025_T_001-1405a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2889¶
-
- 佛說續命經¶
+No. 2889¶
+佛說續命經¶
 ¶
 
 南無大慈大悲救苦觀世音。唯願聖手摩我¶
